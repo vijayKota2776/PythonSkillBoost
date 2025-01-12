@@ -1,0 +1,12 @@
+def set_operations():
+    list1 = list(map(int, input("Enter elements for the first list separated by spaces: ").split()))
+    list2 = list(map(int, input("Enter elements for the second list separated by spaces: ").split()))
+    set1 = set(list1)
+    set2 = set(list2)
+    union = set1.union(set2)
+    intersection = set1.intersection(set2)
+    difference = set1.difference(set2)
+    print(f"Union of sets: {union}")
+    print(f"Intersection of sets: {intersection}")
+    print(f"Difference of sets (set1 - set2): {difference}")
+set_operations()
