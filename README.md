@@ -28,8 +28,7 @@ To make the most of this repository, we recommend the following approach:<br>
 How to Use This Repository<br>
 	1.	Clone this repository to your local machine:
 
-git clone https://github.com/your-username/120-python-practice.git
-
+git clone https://github.com/vijayKota2776/PythonSkillBoost.git
 
 	2.	Navigate to the repository:
 
